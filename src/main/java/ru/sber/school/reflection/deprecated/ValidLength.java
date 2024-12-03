@@ -1,4 +1,4 @@
-package ru.sber.school.reflection;
+package ru.sber.school.reflection.deprecated;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package ru.sber.school.reflection.deprecated;
+package ru.sber.school.reflection;
 
 import ru.sber.school.reflection.cacheproxy.CachedInvocationHandler;
 import ru.sber.school.reflection.calculator.Calculator;

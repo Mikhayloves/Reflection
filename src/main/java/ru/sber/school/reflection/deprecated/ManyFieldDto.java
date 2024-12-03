@@ -1,7 +1,5 @@
 package ru.sber.school.reflection.deprecated;
 
-import ru.sber.school.reflection.ValidLength;
-
 import java.util.Objects;
 
 public class ManyFieldDto {
